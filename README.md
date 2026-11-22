@@ -1,4 +1,4 @@
-## Exp-8-Record-THRESHOLDING
+## Exp-8-Record-thresholding
 
 
 ## Aim
